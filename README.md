@@ -1,6 +1,9 @@
 # 👋 Hi there! I'm Avadhut.
 
-
+![today](https://wakapi.dev/api/badge/avadhutpy/interval:today?label=today)
+![30 days](https://wakapi.dev/api/badge/avadhutpy/avadhutpy/interval:30_days?label=last%2030d&color=yellow)
+![All time](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/avadhutpy/interval:all_time&label=All%20time&color=red)
+---
 
 ## 🚀 About Me
 I'm a passionate freelance web developer and AI enthusiast from India, specializing in Python, Django, and machine learning technologies. With a strong background in deep learning and NLP, I'm on a mission to build innovative web and AI solutions.
@@ -11,7 +14,7 @@ I'm a passionate freelance web developer and AI enthusiast from India, specializ
 - Contributing to open-source projects
 
 ### 📊 Stats
-![Wakapi](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/avadhutpy/interval:all_time&label=All%20time&color=red)
+
 
 ![Wakapi Stats](https://github-readme-stats.vercel.app/api/wakatime?username=avadhutpy&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact)
 
