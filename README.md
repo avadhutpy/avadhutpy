@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Avadhut - Web Developer & AI Enthusiast.
+## 👋 Hi there! I'm Avadhut - Web Developer & AI Enthusiast.
 
 ![30 days](https://wakapi.dev/api/badge/avadhutpy/avadhutpy/interval:30_days?label=last%2030d&color=yellow)
 ![All time](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/avadhutpy/interval:all_time&label=All%20time&color=red)
