@@ -1,8 +1,6 @@
 ## 👋 Hi there! I'm Avadhut - Web Developer & AI Enthusiast.
 
-[![wakatime](https://wakatime.com/badge/user/b1c275ae-d26a-47e6-905a-6c3eee5b653c.svg)](https://wakatime.com/@b1c275ae-d26a-47e6-905a-6c3eee5b653c)
 
----
 
 ### 🚀 About Me
 Freelance neurodivergent developer passionate about creating innovative web solutions and AI technologies. Committed to continuous learning and pushing technological boundaries.
